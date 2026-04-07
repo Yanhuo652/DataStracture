@@ -1,0 +1,4 @@
+1,1,1,Subscriber,pet,game
+2,2,2,Subscriber,game,running,swimming
+3,3,3,Creator,pet,cat
+4,4,4,Admin,pet
